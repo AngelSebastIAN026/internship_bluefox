@@ -1,0 +1,5 @@
+def main() :
+    num = int(input("Enter the number: "))
+    
+    print(["even", 'odd'][num %2])
+main()
