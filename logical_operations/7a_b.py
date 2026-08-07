@@ -11,8 +11,7 @@ def main() :
         print("The grade is D")
     else:
         print("The grade is F")
-    
-    print("mark is", mark)    
+       
     
         
 main()
