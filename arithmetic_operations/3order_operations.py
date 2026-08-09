@@ -8,6 +8,5 @@ def main():
     print(expression)
 
 
-if __name__ == "__main__":
-    main()
+check_expression()
 
