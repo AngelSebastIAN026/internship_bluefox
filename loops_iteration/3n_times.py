@@ -5,5 +5,5 @@ def main() :
         for j in range(i):
            print(i, end=" ")
            
-           
+        print("\n")      
 main()
