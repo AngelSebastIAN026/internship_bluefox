@@ -1,15 +1,14 @@
 def main():
-    integers = []
+    numbers = []
 
     even = []
-    odd = [] 
- 
- 
- for i in range(n):
-         number = int(input("Enter a number: "))
-        integers.append(number)
+    odd = []
 
-    for number in integers:
+    for i in range(10):
+        number = int(input("Enter a number: "))
+        numbers.append(number)
+
+    for number in numbers:
         if number % 2 == 0:
             even.append(number)
         else:
