@@ -47,7 +47,7 @@ def main():
                 if high_score is None:
                     print("High score is not yet :")
                 else:
-                    print("High score is: ", high_score, "guesses")
+                    print("wow!! New High score is: ", high_score, "guesses")
                 
         
             elif choice == 3:
